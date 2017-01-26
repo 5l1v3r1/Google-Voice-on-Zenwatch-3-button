@@ -1,5 +1,5 @@
 # OK-Google-for-ZenWatch-3
-OK Google for ZenWatch 3
+
 
 
 1. Install https://github.com/ajinabraham/OK-Google-for-ZenWatch-3/blob/master/OKGoogle/app/app-release.apk on Zenwatch 3. 
