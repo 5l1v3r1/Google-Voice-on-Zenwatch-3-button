@@ -8,5 +8,5 @@ Works with other SmartWatches as well.
 3. Go to Apps Drawer-> Button Settings and set OK Google! app for top or bottom button.
 
 Watch Video
-![Watch on YouTube](https://cloud.githubusercontent.com/assets/4301109/22345830/b6fe47fa-e427-11e6-8282-a1ba96c4a7e9.png)
-https://www.youtube.com/watch?v=jo8i07NW9TU
+
+[![Watch on YouTube](https://cloud.githubusercontent.com/assets/4301109/22345830/b6fe47fa-e427-11e6-8282-a1ba96c4a7e9.png)](https://www.youtube.com/watch?v=jo8i07NW9TU).
