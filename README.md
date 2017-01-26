@@ -1,8 +1,7 @@
-# OK-Google-for-ZenWatch-3
+# Google Voice/ OK Google for Zenwatch3 top and bottom crown buttons.
+Works with other SmartWatches as well.
 
-
-
-1. Install https://github.com/ajinabraham/OK-Google-for-ZenWatch-3/blob/master/OKGoogle/app/app-release.apk on Zenwatch 3. 
+1. Download and Install the latest release: https://github.com/ajinabraham/Google-Voice-on-Zenwatch-3-button/releases
 
 2. This will install OK Google!
 
