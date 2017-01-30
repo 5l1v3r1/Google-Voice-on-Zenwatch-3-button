@@ -1,5 +1,5 @@
 # Google Voice/ OK Google for Zenwatch3 top and bottom crown buttons.
-Works with other SmartWatches as well.
+Zenwatch3 has 3 crown buttons and you can program top and bottom buttons with apps or settings. Sadly you cannot configure Google Voice/ OK Google to any of the button. Here is an OK Google app that you can directly install on your Zenwatch3 to configure it on either of the crown button. The app will also work with other SmartWatches having programmable buttons.
 
 1. Download and Install the latest release in the SmartWatch: https://github.com/ajinabraham/Google-Voice-on-Zenwatch-3-button/releases
 
